@@ -43,7 +43,7 @@ It focuses on analyzing data trends along with **Customer Churn Analysis** to un
 ---
 
 ## 📷 Dashboard Preview  
-
+Customer Churn png
 
 ---
 
